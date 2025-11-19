@@ -21,7 +21,22 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="distance_00.py" />
     <Compile Include="lab01.py" />
+    <Compile Include="tasks\circle_01.py" />
+    <Compile Include="tasks\operations_02.py" />
+    <Compile Include="tasks\favorite_movies_03.py" />
+    <Compile Include="tasks\my_family_04.py" />
+    <Compile Include="tasks\zoo_05.py" />
+    <Compile Include="tasks\songs_list_06.py" />
+    <Compile Include="tasks\secret_07.py" />
+    <Compile Include="tasks\garden_08.py" />
+    <Compile Include="tasks\shopping_09.py" />
+    <Compile Include="tasks\store_10.py" />
+    <Compile Include="tasks\distance_00.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="tasks\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
