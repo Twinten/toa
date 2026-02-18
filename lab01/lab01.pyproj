@@ -21,7 +21,6 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="distance_00.py" />
     <Compile Include="lab01.py" />
     <Compile Include="tasks\circle_01.py" />
     <Compile Include="tasks\operations_02.py" />
